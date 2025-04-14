@@ -19,3 +19,8 @@ public class sumOfEachDigit {
         return n;
     }
 }
+
+//? wap to define a method to check the user entered number is happy num or not.(sum of square of each digit until get it single digit and the single digit should be 1 )
+//97
+
+//? wap to print nearest prime num for the given num.
